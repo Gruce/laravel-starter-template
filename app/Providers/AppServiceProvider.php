@@ -13,7 +13,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        Blade::if('admin', function () {
+            return auth()->check() && auth()->user()->is_admin == 1;
+        });
     }
 
     /**

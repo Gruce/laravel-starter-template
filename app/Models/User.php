@@ -50,6 +50,12 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
+    public function add($data)
+    {
+        $this->fill($data);
+        $this->save();
+    }
+
     /**
      * The accessors to append to the model's array form.
      *
