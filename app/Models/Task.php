@@ -8,10 +8,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class Task extends Model
 {
+    use HasFactory;
     use HasFactory, SoftDeletes;
 
 
-    protected $fillable = [];
+    protected $fillable = ['name','description','is_active','state','is_archived','importance','file_path'];
     protected $appends = [];
 
 

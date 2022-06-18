@@ -8,9 +8,10 @@ use Illuminate\Database\Eloquent\Model;
 
 class Project extends Model
 {
+    use HasFactory;
     use HasFactory, SoftDeletes;
 
-    protected $fillable = [];
+    protected $fillable = ['name','description','file_path'];
     protected $appends = [];
 
 
