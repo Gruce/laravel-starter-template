@@ -11,7 +11,7 @@ class Project extends Model
     use HasFactory;
     use HasFactory, SoftDeletes;
 
-    protected $fillable = ['name','description','file_path'];
+    protected $fillable = ['name', 'description'];
     protected $appends = [];
 
 

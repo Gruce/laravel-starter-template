@@ -12,7 +12,7 @@ class Task extends Model
     use HasFactory, SoftDeletes;
 
 
-    protected $fillable = ['name','description','is_active','state','is_archived','importance','file_path'];
+    protected $fillable = ['name', 'description', 'is_active', 'state',  'importance'];
     protected $appends = [];
 
 
