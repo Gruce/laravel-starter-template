@@ -101,10 +101,10 @@
                             </x-jet-dropdown-link>
 
                             <x-jet-dropdown-link href="{{ route('change_locale', 'ar') }}">
-                                ar
+                                عربى
                             </x-jet-dropdown-link>
                             <x-jet-dropdown-link href="{{ route('change_locale', 'en') }}">
-                                en
+                                English
                             </x-jet-dropdown-link>
 
                             @if (Laravel\Jetstream\Jetstream::hasApiFeatures())
@@ -174,6 +174,12 @@
                     {{ __('API Tokens') }}
                 </x-jet-responsive-nav-link>
                 @endif
+                <x-jet-dropdown-link href="{{ route('change_locale', 'ar') }}">
+                    عربى
+                </x-jet-dropdown-link>
+                <x-jet-dropdown-link href="{{ route('change_locale', 'en') }}">
+                    English
+                </x-jet-dropdown-link>
 
                 <!-- Authentication -->
                 <form method="POST" action="{{ route('logout') }}" x-data>
