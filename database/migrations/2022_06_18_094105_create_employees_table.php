@@ -19,6 +19,7 @@ return new class extends Migration
             $table->integer('type')->default(1); // 1: male  2: female  3: other
             $table->boolean('state')->default(false); // 1: active  0: not active 
             $table->string('job');
+            $table->softDeletes();
             $table->timestamps();
         });
     }

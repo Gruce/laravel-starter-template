@@ -22,6 +22,7 @@ return new class extends Migration
             $table->boolean('is archived')->default(false);
             $table->integer('importance')->default(1); // 1: low , 2: medium , 3: high
             $table->string('file_path')->nullable();
+            $table->softDeletes();
             $table->timestamps();
         });
     }
