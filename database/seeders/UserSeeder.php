@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
         $user->add([
             'name' => 'Company',
             'email' => 'admin@gmail.com',
-            'password' => bcrypt('password'),
+            'password' => bcrypt('123456'),
             'is_admin' => 1,
         ]);
     }
