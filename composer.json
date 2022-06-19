@@ -16,7 +16,8 @@
         "laravel/tinker": "^2.7",
         "livewire/livewire": "^2.5",
         "silviolleite/laravelpwa": "^2.0",
-        "spatie/laravel-backup": "^8.1"
+        "spatie/laravel-backup": "^8.1",
+        "tymon/jwt-auth": "^1.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
