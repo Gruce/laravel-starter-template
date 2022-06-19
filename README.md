@@ -8,14 +8,53 @@ This template for Laravel Framework contains many packages that help in creating
     git merge template/master
 ```
 
-Packages Includes
-※ Laravel Jetstream
+## Run Project
+```
+    Copy .env.example Pest in in root directory and rename to .env
+    make database
+    composer install
+    php artisan key:generate
+    php artisan reset
+```
+## Packages && Liabr Includes
 
-※ Laravel livewire
+※ Laravel Jetstream: https://jetstream.laravel.com/
 
-※ Livewire Alert https://livewire-alert.jantinnerezo.com
+※ Laravel JWT: https://jwt-auth.readthedocs.io
 
-※ laravel pwa https://github.com/silviolleite/laravel-pwa
+※ Laravel livewire: https://laravel-livewire.com
 
-※ laravel debugbar https://github.com/barryvdh/laravel-debugbar
+※ Livewire Charts: https://github.com/asantibanez/livewire-charts
+
+※ Livewire Alert: https://livewire-alert.jantinnerezo.com
+
+※ Laravel PWAm: https://github.com/silviolleite/laravel-pwa
+
+※ Laravel Debugbar: https://github.com/barryvdh/laravel-debugbar
+
+※ Laravel Money:  https://github.com/akaunting/laravel-money
+
+※ Laravel Backup: https://github.com/spatie/laravel-backup
+
+※ Alpine js: https://alpinejs.dev
+
+※ Tailwindui: https://tailwindui.com
+
+※ Flowbite: https://flowbite.com
+
+※ Fontawesome https://fontawesome.com
+
+※
+
+## Commainds Includes
+
+※ php artisan reset
+---> Reset database
+---> Migrate database
+---> Seed database
+---> Clear cache
+
+
+
+
 
