@@ -1,2 +1,1 @@
-# Task-System
-Task System multi-language system
+# Laravel Starter Template
