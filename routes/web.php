@@ -2,7 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MainController;
-use App\Http\Livewire\Test\Test;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,7 +18,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
+// language Change Route
 Route::get('change-language/{locale}', [MainController::class, 'changeLanguage'])->name('change_locale');
 
 Route::middleware([
@@ -34,8 +33,5 @@ Route::middleware([
 
 
 Route::middleware(['auth'])->group(function () {
-
-    Route::prefix('Test')->group(function () {
-        Route::get('/test', Test::class)->name('test');
-    });
+    //code
 });
