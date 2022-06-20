@@ -55,7 +55,7 @@ This template for Laravel Framework contains many packages that help in creating
 - Reset database
 - Migrate database
 - Seed database
-- Clear cache
+- Optimize
 
 
 ※ php artisan ip
