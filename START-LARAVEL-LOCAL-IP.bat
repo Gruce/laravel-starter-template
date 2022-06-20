@@ -5,8 +5,8 @@
 
 @echo off
 
-ECHO Reset Database...
+ECHO Starting Server...
 
-php artisan reset
+php artisan ip
 
 pause
