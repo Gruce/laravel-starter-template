@@ -10,10 +10,11 @@ This template for Laravel Framework contains many packages that help in creating
 
 ## Run Project
 ```
-    Copy .env.example Pest in in root directory and rename to .env
+    Copy .env.example Paste in in root directory and rename to .env
     make database
     composer install
     php artisan key:generate
+    php artisan jwt:secret
     php artisan reset
 ```
 ## Packages && Libraries Includes
@@ -36,6 +37,8 @@ This template for Laravel Framework contains many packages that help in creating
 
 ※ Laravel Backup: https://github.com/spatie/laravel-backup
 
+※ Laravel eloquent-eager-limit : https://github.com/staudenmeir/eloquent-eager-limit
+
 ※ Alpine js: https://alpinejs.dev
 
 ※ Tailwindui: https://tailwindui.com
@@ -53,6 +56,24 @@ This template for Laravel Framework contains many packages that help in creating
 - Migrate database
 - Seed database
 - Clear cache
+
+
+※ php artisan ip
+- Start the server on the specified port
+
+
+## Middleware
+※ admin
+
+## UserSeeder
+※ Admins
+    email: admin@gmail.com
+    password: 123456
+    
+※ Users
+    email: user@gmail.com
+    password 123456
+
 
 ## Language Includes
 
