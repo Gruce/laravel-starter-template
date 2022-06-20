@@ -16,7 +16,7 @@ This template for Laravel Framework contains many packages that help in creating
     php artisan key:generate
     php artisan reset
 ```
-## Packages && Liabr Includes
+## Packages && Libraries Includes
 
 ※ Laravel Jetstream: https://jetstream.laravel.com/
 
@@ -49,10 +49,10 @@ This template for Laravel Framework contains many packages that help in creating
 ## Commainds Includes
 
 ※ php artisan reset
----> Reset database
----> Migrate database
----> Seed database
----> Clear cache
+- Reset database
+- Migrate database
+- Seed database
+- Clear cache
 
 
 
