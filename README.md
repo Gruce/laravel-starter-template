@@ -54,6 +54,11 @@ This template for Laravel Framework contains many packages that help in creating
 - Seed database
 - Clear cache
 
+## Lang Includes
+
+※ عربي
+
+※ English
 
 
 
