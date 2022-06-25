@@ -1,5 +1,11 @@
 # Laravel Starter Template
 
+![Issues](https://img.shields.io/github/issues/Gruce/laravel-starter-template)
+![Forks](https://img.shields.io/github/forks/Gruce/laravel-starter-template)
+![Stars](https://img.shields.io/github/stars/Gruce/laravel-starter-template)
+![License](https://img.shields.io/github/license/Gruce/laravel-starter-template)
+
+
 This template for Laravel Framework contains many packages that help in creating web applications
 ## Add Remote To Your Repo
 ```
