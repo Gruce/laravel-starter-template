@@ -43,8 +43,6 @@ This template is for Laravel Framework starter configuration that helps you buil
       - [1. English](#1-english)
       - [2. Arabic](#2-arabic)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ---
 
 ### 1. Add Remote To Your Repo
