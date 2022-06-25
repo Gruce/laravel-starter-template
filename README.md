@@ -1,5 +1,8 @@
 # Laravel Starter Template
 
+![image](https://user-images.githubusercontent.com/5357529/175783812-676139f7-6771-47f6-9905-205c2a4d2a67.png)
+![image](https://user-images.githubusercontent.com/5357529/175783862-64ed6216-e9b1-4718-a03d-4b12756d964a.png)
+
 ![Issues](https://img.shields.io/github/issues/Gruce/laravel-starter-template)
 ![Forks](https://img.shields.io/github/forks/Gruce/laravel-starter-template)
 ![Stars](https://img.shields.io/github/stars/Gruce/laravel-starter-template)
