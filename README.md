@@ -66,7 +66,7 @@ php artisan reset
 ---
 
 
-## Commainds Includes
+## Commands Includes
 ### 1. Reset
 ```
 php artisan reset
@@ -76,15 +76,18 @@ php artisan reset
 - Seed database
 - Optimize
 
-### 2. Reset
+### 2. IP
 ```
 php artisan ip
 ```
 - Start the server on the specified port
 
 
+---
+
+
 ## Middleware
-※ admin
+### Admin
 
 ## UserSeeder
 ※ Admins
