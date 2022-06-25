@@ -10,6 +10,16 @@
 ![Contribs](https://img.shields.io/github/contributors/Gruce/laravel-starter-template)
 ![LastCommit](https://img.shields.io/github/last-commit/Gruce/laravel-starter-template)
 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+
+![LaravelVersion](https://img.shields.io/badge/Laravel%20Version-9.0.0-red)
+
+
+
 This template is for Laravel Framework starter configuration that helps you build Laravel websites faster. Feel free to contribute.
 
 
