@@ -17,7 +17,7 @@ This template for Laravel Framework contains many packages that help in creating
     php artisan jwt:secret
     php artisan reset
 ```
-## Packages && Libraries Includes
+## Packages and Libraries Included
 
 ※ Laravel Jetstream: https://jetstream.laravel.com/
 
@@ -29,7 +29,7 @@ This template for Laravel Framework contains many packages that help in creating
 
 ※ Livewire Alert: https://livewire-alert.jantinnerezo.com
 
-※ Laravel PWAm: https://github.com/silviolleite/laravel-pwa
+※ Laravel PWA: https://github.com/silviolleite/laravel-pwa
 
 ※ Laravel Debugbar: https://github.com/barryvdh/laravel-debugbar
 
@@ -39,15 +39,14 @@ This template for Laravel Framework contains many packages that help in creating
 
 ※ Laravel eloquent-eager-limit : https://github.com/staudenmeir/eloquent-eager-limit
 
-※ Alpine js: https://alpinejs.dev
+※ Alpine JS: https://alpinejs.dev
 
-※ Tailwindui: https://tailwindui.com
+※ TailwindCSS: https://tailwindcss.com
 
 ※ Flowbite: https://flowbite.com
 
 ※ Fontawesome https://fontawesome.com
 
-※
 
 ## Commainds Includes
 
