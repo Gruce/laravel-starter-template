@@ -88,6 +88,11 @@ php artisan ip
 
 ## Middleware
 ### Admin
+```
+Route::get('/', function () {
+    return view('welcome');
+})->middleware('admin');
+```
 
 ## UserSeeder
 ※ Admins
