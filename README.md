@@ -10,10 +10,32 @@
 ![Contribs](https://img.shields.io/github/contributors/Gruce/laravel-starter-template)
 ![LastCommit](https://img.shields.io/github/last-commit/Gruce/laravel-starter-template)
 
-This template for Laravel Framework contains many packages that help in creating web applications
+This template is for Laravel Framework starter configuration that helps you build Laravel websites faster. Feel free to contribute.
+
+
 
 ---
 
+- [Laravel Starter Template](#laravel-starter-template)
+    + [1. Add Remote To Your Repo](#1-add-remote-to-your-repo)
+    + [2. Run Project](#2-run-project)
+  * [Packages and Libraries Included](#packages-and-libraries-included)
+  * [Commands Includes](#commands-includes)
+    + [1. Reset](#1-reset)
+    + [2. IP](#2-ip)
+  * [Middlewares](#middlewares)
+    + [1. Admin](#1-admin)
+  * [Seeders](#seeders)
+    + [1. UserSeeder](#1-userseeder)
+      - [2. Admin](#2-admin)
+      - [2. User](#2-user)
+  * [Languages Include](#languages-include)
+      - [1. English](#1-english)
+      - [2. Arabic](#2-arabic)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+---
 
 ### 1. Add Remote To Your Repo
 ```
