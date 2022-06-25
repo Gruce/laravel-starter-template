@@ -86,29 +86,36 @@ php artisan ip
 ---
 
 
-## Middleware
-### Admin
+## Middlewares
+
+### 1. Admin
 ```
 Route::get('/', function () {
     return view('welcome');
 })->middleware('admin');
 ```
 
-## UserSeeder
-※ Admins
-    email: admin@gmail.com
-    password: 123456
-    
-※ Users
-    email: user@gmail.com
-    password 123456
+---
 
+## Seeders
 
-## Language Includes
+### 1. UserSeeder
+#### 2. Admin
+```
+Email: admin@gmail.com
+Password: 123456
+```
+#### 2. User
+```
+Email: user@gmail.com
+Password 123456
+```
 
-※ Arabic
+---
 
-※ English
+## Languages Include
+#### 1. English
+#### 2. Arabic
 
 
 
