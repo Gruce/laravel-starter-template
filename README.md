@@ -40,7 +40,7 @@ php artisan reset
 
 ※ [Laravel livewire](https://laravel-livewire.com)
 
-※ [Livewire Charts](https://github.com/asantibanez/livewire-charts):
+※ [Livewire Charts](https://github.com/asantibanez/livewire-charts)
 
 ※ [Livewire Alert](https://livewire-alert.jantinnerezo.com)
 
@@ -63,16 +63,23 @@ php artisan reset
 ※ [Fontawesome](https://fontawesome.com)
 
 
-## Commainds Includes
+---
 
-※ php artisan reset
+
+## Commainds Includes
+### 1. Reset
+```
+php artisan reset
+```
 - Reset database
 - Migrate database
 - Seed database
 - Optimize
 
-
-※ php artisan ip
+### 2. Reset
+```
+php artisan ip
+```
 - Start the server on the specified port
 
 
