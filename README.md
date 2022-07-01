@@ -135,7 +135,7 @@ Route::get('/', function () {
 ## Seeders
 
 ### 1. UserSeeder
-#### 2. Admin
+#### 1. Admin
 ```
 Email: admin@gmail.com
 Password: 123456
