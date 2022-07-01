@@ -60,6 +60,8 @@ composer install
 php artisan key:generate
 php artisan jwt:secret
 php artisan reset
+npm install
+npm run dev
 ```
 
 ---
